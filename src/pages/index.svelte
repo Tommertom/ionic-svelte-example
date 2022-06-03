@@ -9,13 +9,12 @@ let showModal = false;
 let modal: IonModal;
 
 onMount(() => {
-  setDismissHandler()
+  setDismissHandler();
 
   // If this is used, the modal only shows twice, whereafter showModal remains true.
   /* modal.onDidDismiss().then(() => {
     showModal = false;}); */
 });
-
 
 function setDismissHandler() {
   modal.onDidDismiss().then(() => {
@@ -50,6 +49,9 @@ async function showActions() {
     {showModal}
   </ion-content>
 </article>
+
+<ion-chip>CHIP does not work</ion-chip>
+<ion-badge>BADGE</ion-badge>
 
 <ion-fab vertical="bottom" horizontal="end">
   <ion-fab-button on:click={showActions} color="blue">
