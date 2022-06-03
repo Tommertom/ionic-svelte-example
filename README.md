@@ -128,3 +128,4 @@ I would love to keep a collection of all the projects using this!
 -----
 
 This template was created by [t. Macleod Sawyer](https://macleodsawyer.com/) of [DNX Robotics](https://dnxrobotics.com) - [Source can be found here](https://github.com/drannex42/svelte-capacitor)
+"# ionic-svelte-example" 
