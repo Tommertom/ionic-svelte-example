@@ -1,3 +1,10 @@
+
+![](/localhost_9999_.png)
+
+Issue with styling!
+
+Fork from https://github.com/raymondboswel/ionic-svelte-example
+
 To run project:
 > npm i
 > npm run dev:start
