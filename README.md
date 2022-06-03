@@ -1,7 +1,9 @@
 
 ![](/localhost_9999_.png)
 
-Issue with styling!
+Issue with styling:
+- chip is full width
+- badge has no background color
 
 Fork from https://github.com/raymondboswel/ionic-svelte-example
 
